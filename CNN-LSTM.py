@@ -1,4 +1,3 @@
-#cnn with xgboost
 import numpy as np
 import pandas as pd
 np.random.seed(1337)  # for reproducibility 
